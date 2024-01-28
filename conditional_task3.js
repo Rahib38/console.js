@@ -1,4 +1,4 @@
-const score = 86;
+const score = 55;
 
 if (score > 80){
     console.log('A+');
