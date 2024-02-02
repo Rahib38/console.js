@@ -6,3 +6,9 @@ console.log(part);
 const sentence = 'I am a good boy';
 console.log (sentence.split());
 console.log (sentence.split(' '));
+
+// join
+const realFriend = ['Rahim', 'Kahim', 'Mahim', 'Khahim'];
+console.log(realFriend.join());
+console.log(realFriend.join(","));
+console.log(realFriend.join('|'));
