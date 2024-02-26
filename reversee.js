@@ -5,3 +5,4 @@ const arr =[1, 2, 3, 4, 5, 6, 7, 8];
 //     arr[arr.length-1-i] = temp;
 // }
 console.log(arr.reverse());
+console.log(arr.sort())
